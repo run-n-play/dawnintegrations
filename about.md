@@ -11,7 +11,7 @@ Right now I lead project engineering at Michelin — line installations, technic
 
 **Dawn Integrations** is where my own projects live — the time-clock apps, home-lab servers, embedded hardware, and machine-control work I build outside the day job. This blog is the log for those builds.
 
-## What I work with
+## What I worked with
 
 - **Design & CAD** — SolidWorks, Creo, AutoCAD, VCarve, GD&T
 - **CNC** — multi-axis programming in Mastercam, Esprit, and VCarve; up to 7-axis
