@@ -12,7 +12,7 @@ Dawn Integrations is going to be a build log. A running list of what I'm working
 
 What's likely to show up first:
 
-- **LinuxCNC on the 5-axis gantry router** — config, the ATC, probing, tool offsets.
+- **LinuxCNC on the 4-axis gantry router** — config, the ATC, probing, tool offsets.
 - **The shop time-clock system** — Flask and SQLite on the back end, an ESP32 RFID kiosk on the front.
 - **Home-lab servers and NAS** — the storage and compute this all runs on.
 - Whatever else I'm elbow-deep in that week.
