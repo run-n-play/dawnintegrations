@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 4-axis gantry, and the control behind it"
-date: 2026-09-22 09:00:00 -0400
+date: 2026-09-21 09:00:00 -0400
 tags: [linuxcnc, cnc, retrofit]
 excerpt: "A look at the shop's 4-axis gantry router — the QtDragon control screen and the cabinet wiring that drives it."
 ---
