@@ -1,0 +1,33 @@
+title: Dawn Integrations
+tagline: Build logs from the shop floor to the server rack
+author: Russell Borton
+email: russellborton@gmail.com
+description: >-
+  Build logs and technical notes from Russell Borton, mechanical project
+  engineer in Anderson, SC. CNC, automation, home-lab servers, and embedded
+  hardware.
+url: "https://dawnintegrations.com"
+baseurl: ""
+permalink: /:year/:month/:title/
+timezone: America/New_York
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+feed:
+  path: feed.xml
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+
+
+github_user: run-n-play
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
