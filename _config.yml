@@ -1,11 +1,11 @@
-title: Dawn Integrations
-tagline: Build logs from the shop floor to the server rack
+title: Dawn Integrations LLC
+tagline: Sawdust & Silicon: The Builder's Journal
 author: Russell Borton
 email: russellborton@gmail.com
 description: >-
-  Build logs and technical notes from Russell Borton, mechanical project
-  engineer in Anderson, SC. CNC, automation, home-lab servers, and embedded
-  hardware.
+  The project notebook of Russell Borton, mechanical project engineer. 
+  From precision CNC fabrication to home-lab server racks and embedded 
+  hardware, exploring how things are built Near Clemson, SC.
 url: "https://dawnintegrations.com"
 baseurl: ""
 permalink: /:year/:month/:title/
