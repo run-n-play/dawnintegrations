@@ -5,11 +5,11 @@ permalink: /about/
 ---
 
 {: .lede}
-I'm Russell Borton — a mechanical project engineer in Anderson, South Carolina. For twenty-plus years I've worked the seam between hands-on fabrication and large-scale industrial engineering: custom cabinetry and one-off machine builds on one end, multi-million-dollar capital projects and plant-wide automation on the other.
+I'm Russell Borton — a mechanical project engineer in Central, South Carolina(outside of Clemson). For twenty-plus years I've worked the seam between hands-on fabrication and large-scale industrial engineering: custom cabinetry and one-off machine builds on one end, multi-million-dollar capital projects and plant-wide automation on the other.
 
-Right now I lead project engineering at Michelin — line installations, technical integrations, and CapEx deployment across several U.S. sites. Before that came manufacturing and process engineering at Electrolux, Apex Tool Group, and Harsco Rail, and earlier still, running my own custom woodworking shop and teaching CNC and CAD as an adjunct instructor.
+Right now I am a mechanical project engineering at Michelin — line installations, technical integrations, and CapEx deployment across several U.S. sites. Before that came manufacturing and process engineering at Electrolux, Apex Tool Group, and Harsco Rail, and earlier still, running my own custom woodworking shop and teaching CNC and CAD as an adjunct instructor.
 
-**Dawn Integrations** is where my own projects live — the time-clock apps, home-lab servers, embedded hardware, and machine-control work I build outside the day job. This blog is the log for those builds.
+**Dawn Integrations LLC** is the sandbox for my personal engineering projects. This blog is the official build log for everything I create outside the day job—from custom time-clock apps and embedded hardware to home-lab servers and machine-control systems. I started this site to document my process, create a personal reference manual, and help other builders along the way.
 
 ## What I worked with
 
