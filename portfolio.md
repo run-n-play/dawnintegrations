@@ -148,3 +148,14 @@ AAS in Engineering Graphics, Tri-County Technical College, 2012 — graduated wi
     <figcaption>Dean’s List</figcaption>
   </figure>
 </div>
+## Where I've been
+
+<ul class="timeline">
+  <li><span class="yr">2022–now</span><span><p class="role">Project Mechanical Engineer / Project Affairs Leader</p><p class="org">Michelin</p></span></li>
+  <li><span class="yr">2020–2022</span><span><p class="role">Manufacturing Engineer</p><p class="org">Electrolux</p></span></li>
+  <li><span class="yr">2018–2020</span><span><p class="role">Sr. Process Engineer</p><p class="org">Apex Tool Group</p></span></li>
+  <li><span class="yr">2015–2018</span><span><p class="role">Manufacturing Engineer / CNC Programmer II</p><p class="org">Harsco Rail</p></span></li>
+  <li><span class="yr">2013–2015</span><span><p class="role">Adjunct Instructor · Design Engineer · Trainer</p><p class="org">Tri-County Technical College · E&I Engineering · Ready SC</p></span></li>
+  <li><span class="yr">2011–2014</span><span><p class="role">QC Manager / CNC Programmer</p><p class="org">Hytech Machining</p></span></li>
+  <li><span class="yr">2001–2011</span><span><p class="role">Owner / Manager</p><p class="org">Borton Custom Woodworking</p></span></li>
+</ul>
