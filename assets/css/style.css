@@ -137,6 +137,15 @@ a:hover{text-decoration:underline;text-underline-offset:3px}
 .timeline .role{margin:0;font-weight:600;color:var(--text)}
 .timeline .org{margin:2px 0 0;color:var(--muted);font-size:.95rem}
 
+/* portfolio gallery */
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:16px}
+.gallery figure{margin:0}
+.gallery a{display:block}
+.gallery img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover}
+.gallery a:hover img{border-color:var(--accent)}
+.gallery figcaption{margin-top:6px;font-size:.85rem;line-height:1.35;color:var(--muted)}
+.gallery.docs img{object-fit:contain;background:var(--surface);padding:6px}
+
 /* footer */
 .site-footer{border-top:1px solid var(--border);padding-block:36px 48px;color:var(--muted)}
 .site-footer .contact{display:flex;flex-wrap:wrap;gap:14px;align-items:center;margin:0 0 8px;font-size:.95rem}
