@@ -3,12 +3,14 @@ layout: post
 title: "We won the Michelin Hackathon with Power Apps and SharePoint"
 date: 2026-10-28 09:00:00 -0400
 tags: [power-apps, sharepoint, power-bi, low-code, michelin, hackathon]
-excerpt: "A hackathon at the day job, a low-code toolkit, and a project-tracking app built on Power Apps and SharePoint. We won. Here's what we built and why it worked."
+excerpt: "Two days, a low-code toolkit, and a project-tracking app built on Power Apps and SharePoint. Ours was the only team with a running app at the end — and we won."
 ---
 
 Most of what lands on this blog is built in my own shop — LinuxCNC, ESP32s, VCarve gadgets. This one came out of the day job.
 
-Michelin held a hackathon, and our team **won** it. The app we built runs entirely on Microsoft's own stack: **Power Apps** for the front end, **SharePoint** for the data, and **Power BI** to put it all on one screen.
+Michelin held a two-day hackathon, and our team **won** it. I was the team's developer — I built the app — and when the two days were up, **ours was the only team with a running app**. Not slides, not a mockup: a working app reading and writing real data.
+
+It runs entirely on Microsoft's own stack: **Power Apps** for the front end, **SharePoint** for the data, and **Power BI** to put it all on one screen.
 
 ## The problem
 
@@ -38,7 +40,7 @@ Off the same SharePoint lists, a **Power BI** dashboard presents all the project
 
 ## Why it worked
 
-Low-code gets a bad reputation with people who write "real" code. But a hackathon is the exact place it shines: you have a short window, and the hard part isn't the code, it's understanding the process well enough to model it. Power Apps and SharePoint let us spend our time on the *workflow* instead of on hosting, authentication, and a database schema.
+Low-code gets a bad reputation with people who write "real" code. But a hackathon is the exact place it shines: you have two days, and the hard part isn't the code, it's understanding the process well enough to model it. Power Apps and SharePoint let me spend the time on the *workflow* instead of on hosting, authentication, and a database schema. That's how we got to a running app while everyone else was still presenting concepts.
 
 And because it's all inside the Microsoft 365 tenant everyone already uses, there's no new system to approve, deploy, or log into. That's a big deal when you want something to actually get used after the demo.
 
