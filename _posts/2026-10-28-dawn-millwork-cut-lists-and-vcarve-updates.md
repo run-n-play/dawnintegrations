@@ -1,19 +1,12 @@
 ---
 layout: post
 title: "From Blender to the CNC: cut lists out of Home Builder, and the VCarve gadgets level up"
+date: 2026-10-28 15:30:00 -0400
 tags: [blender, home-builder, vcarve, cnc, cabinetry, gadgets]
 excerpt: "Design a kitchen in Blender, push one button, get a shop cut list — and hand the parts straight to VCarve to nest and cut. Plus a round of upgrades to Door Nest and Cabinet Nest."
 ---
 
-<!--
-DRAFT — not published. Jekyll ignores everything in _drafts/.
-To publish after testing:
-  1. Fill in every "TODO (after testing)" below and add screenshots under /assets/images/millwork/.
-  2. Move this file to _posts/ and rename it YYYY-MM-DD-dawn-millwork-cut-lists-and-vcarve-updates.md
-  3. Add a `date:` line to the front matter, then push.
--->
-
-Last post I promised these two wouldn't go up until they'd made sawdust. They have. Here's how it went.
+Last post I mentioned two things on the bench: cut lists out of Blender, and a round of VCarve gadget updates. Here's where they stand. Shop-test results and photos will follow in a later post.
 
 ## The problem: great design software, no shop paperwork
 
@@ -48,11 +41,7 @@ Design in Blender → one click → parts in VCarve, ready to nest and toolpath.
 
 And for the customer and the shop floor: a **Mozaik-style job packet** — plan and elevation drawings, per-cabinet assembly sheets, face-frame sheets, door reports, drawer-box and hardware reports, and a priced quote — all with my company name and logo on it.
 
-TODO (after testing): screenshots of a real job — the Blender kitchen, the cut list sheet, the VCarve sheet it opened.
-
 ## The VCarve gadgets level up
-
-TODO (after testing): list the Door Nest and Cabinet Nest changes that made it through testing.
 
 What's been going into them:
 
@@ -60,13 +49,13 @@ What's been going into them:
 - **Door Nest** builds doors around real **Amana** cutter geometry pulled from the tool database, so every vector sits exactly where the bit's center needs to be.
 - **Next up: drawer boxes** — dovetail, butt, or dado corners; flush, raised-dado, or rabbeted bottoms; any bottom thickness.
 
-## How the testing went
-
-TODO (after testing): what got cut, what broke, what got fixed. Photos of the first parts off the router.
-
 ## What's next
 
-TODO (after testing): next steps (drawer box gadget, frameless/closets, hinge and shelf-pin boring, sharing the gadgets with other VCarve users).
+- **Shop testing** — real cuts, and a full write-up with photos of what broke and what got fixed
+- **Drawer box gadget**
+- **Frameless and closet** cabinets
+- **Hinge and shelf-pin boring**
+- **Sharing the gadgets** with other VCarve users
 
 ---
 
