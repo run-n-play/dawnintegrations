@@ -27,6 +27,12 @@ The drawers are **solid wood**, milled down to **5/8"** and rounded over with a 
 
 Stained top, painted legs and base. I like the contrast of the wood top against the white myself — hope you all do too.
 
+## In the store
+
+Here it is set up at The Cows Nest, loaded with her cards and quilt-block pieces, drawers pulled out as extra display space, with the white display blocks stacked up top.
+
+![The display table in use at The Cows Nest — drawers open with cards, white display blocks on top](/assets/images/display-table/display-table-in-store.jpg)
+
 ## Plans
 
 I drew up plans for this one. I'll post them here once I get them uploaded.
